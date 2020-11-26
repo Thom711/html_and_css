@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+body {
+    background-color: lightcyan;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    background-color: lightblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 4px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.photo {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;}
+
+
+.kop {
+    font-family: 'Nerko One', cursive;
+    color: darkred;
+    background-color: lightgrey;
+    border: 2px solid black;
+    width: 225px;
+}
+
+.black-border {
+    border: 5px solid black;
+    width: 225px;
+    padding: 4px;
+    background-color: white;
+}
+
+
